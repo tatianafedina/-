@@ -1,0 +1,8 @@
+{
+    "18647651": {
+        "course": 3,
+        "dialog": null,
+        "state": null,
+        "user_id": 18647651
+    }
+}
